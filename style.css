@@ -1,0 +1,9 @@
+
+
+.row{
+  margin-left: 40px;
+  margin:2px double black;
+  row-gap: 10px;
+  grid-row: 1fr 1fr 1fr;
+  padding-inline: 70px;
+}
